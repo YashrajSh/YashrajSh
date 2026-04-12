@@ -18,43 +18,55 @@
 
 As an AI engineer, I look at development as a continuous pipeline. Here is the stack I use to move from raw data to deployed intelligence:
 
-#### 1. Ingestion, Data & APIs
+#### 1. Languages, Web & Databases
 <div align="left">
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=py" width="45"><br><sup>Python</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=java" width="45"><br><sup>Java</sup></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"><br><sup>C</sup></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"><br><sup>JavaScript</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"><br><sup>SQL</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"><br><sup>MongoDB</sup></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"><br><sup>React.js</sup></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"><br><sup>Node.js</sup></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"><br><sup>Express.js</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"><br><sup>FastAPI</sup></td>
     </tr>
   </table>
 </div>
+
+> **Programming:** Java, Python, SQL, C, JavaScript  
+> **Web Technologies:** Express.js, React.js, Node.js, FastAPI  
+> **Databases:** MongoDB, MySQL  
 
 #### 2. Compute, AI & Modeling
 <div align="left">
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"><br><sup>PyTorch</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"><br><sup>TensorFlow</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="45"><br><sup>OpenCV</sup></td>
     </tr>
   </table>
 </div>
 
-> **Core Libraries:** *Diffusers, spaCy, NLTK, Transformers, Scikit-learn, Pandas, NumPy*
+> **AI / ML:** Agentic AI, Deep Learning, Generative AI, NLP, Computer Vision, Regression, Classification, Clustering  
+> **Data Science & Analysis:** Exploratory Data Analysis (EDA), Feature Engineering, Data Normalization, Excel, Tableau  
+> **Libraries:** PyTorch, Diffusers, Scikit-learn, OpenCV, Matplotlib, Seaborn, NumPy, Pandas, NLTK, Transformers, spaCy  
 
-#### 3. Containerization & Deployment
+#### 3. Containerization, Cloud & Tools
 <div align="left">
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"><br><sup>AWS</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"><br><sup>Docker</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"><br><sup>Git</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"><br><sup>Linux</sup></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"><br><sup>GitHub</sup></td>
     </tr>
   </table>
 </div>
+
+> **Infrastructure:** AWS (EC2, Load Balancing, Auto Scaling), Docker, Git, GitHub  
 
 ---
 
