@@ -7,7 +7,6 @@
 
   <a href="https://www.linkedin.com/in/yashraj-shrivastava-2064841ab/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/YashrajShri4/"><img src="https://img.shields.io/badge/LeetCode-Solved-orange?style=flat-square&logo=leetcode" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/profile/yashrajnlwr"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   <a href="mailto:yashraj.shri4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/></a>
 </div>
 
@@ -42,30 +41,19 @@ As an AI engineer, I look at development as a continuous pipeline. Here is the s
 > **Databases:** MongoDB, MySQL  
 
 #### 2. Compute, AI & Modeling
-
-**Core ML, Vision & Data**
 <div align="left">
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"><br><sup>PyTorch</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45"><br><sup>Scikit-learn</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="45"><br><sup>Pandas</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="45"><br><sup>NumPy</sup></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="45"><br><sup>OpenCV</sup></td>
     </tr>
   </table>
 </div>
 
-**NLP & Generative AI**
-<div align="left">
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/Diffusers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Diffusers"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
-  <img src="https://img.shields.io/badge/NLTK-150458?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
-</div>
-
 > **AI / ML:** Agentic AI, Deep Learning, Generative AI, NLP, Computer Vision, Regression, Classification, Clustering  
 > **Data Science & Analysis:** Exploratory Data Analysis (EDA), Feature Engineering, Data Normalization, Excel, Tableau  
+> **Libraries:** PyTorch, Diffusers, Scikit-learn, OpenCV, Matplotlib, Seaborn, NumPy, Pandas, NLTK, Transformers, spaCy  
 
 #### 3. Containerization, Cloud & Tools
 <div align="left">
@@ -92,19 +80,6 @@ As an AI engineer, I look at development as a continuous pipeline. Here is the s
 | **[FraudGuard](#)** | Financial fraud detection system mitigating false positives in imbalanced datasets. | Logistic Regression, SMOTE, Scikit-Learn |
 
 *(Click on my pinned repositories above to dive into the source code and documentation).*
-
----
-
-### 🧠 Problem Solving & DSA
-
-<div align="center">
-  <a href="https://leetcode.com/u/YashrajShri4/">
-    <img src="https://leetcard.jacoblin.cool/YashrajShri4?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%" />
-  </a>
-  <a href="YOUR_GFG_PROFILE_LINK">
-    <img src="https://gfg-statapp.vercel.app/api?username=YOUR_GFG_USERNAME&theme=dark" alt="GeeksforGeeks Stats" width="48%" />
-  </a>
-</div>
 
 ---
 
