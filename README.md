@@ -206,7 +206,4 @@ If you have any questions about AI, machine learning, generative models, data pi
   <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" /></a>
 </div>
 
-------
-Credit: [YashrajSh](https://github.com/YashrajSh)
 
-Last Edited on: 13/04/2026
