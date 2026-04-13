@@ -36,8 +36,8 @@
  * @param {string} languages   - English, Hindi.
  * @param {string} specialization - Building AI pipelines, generative models,
  *                               and full-stack ML systems from data to deployment.
- * @param {string} interests   - Agentic AI, Distributed Systems, NLP & Computer Vision.
- * @param {string} hobbies     - Problem solving, DSA grinding & exploring new tech.
+ * @param {string} interests   - Agentic AI, Generative AI, NLP & Computer Vision.
+ * @param {string} hobbies     - Problem solving, building projects & exploring new tech.
  * @param {string} approachable - Yes, to collaborate on exciting AI/ML projects,
  *                               don't hesitate to reach out.
  * @param {string} strength    - Analytical thinking & end-to-end system design.
