@@ -1,90 +1,83 @@
 <div align="center">
   <a href="https://github.com/YashrajSh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yashraj+Shrivastava;AI+%2F+ML+Developer;Data+Science+%26+Analytics;Cloud+Deployment+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yashraj+Shrivastava;Architecting+Intelligent+Systems;Generative+AI+%2B+Cloud+Ops;Turning+Data+into+Deployed+Intelligence" alt="Typing SVG" />
   </a>
-  <br>
-  <p><b>Bridging the gap between cutting-edge generative AI, data architecture, and scalable cloud deployment.</b></p>
 
-  <a href="https://www.linkedin.com/in/yashraj-shrivastava-2064841ab/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/YashrajShri4/"><img src="https://img.shields.io/badge/LeetCode-Solved-orange?style=flat-square&logo=leetcode" alt="LeetCode"/></a>
-  <a href="mailto:yashraj.shri4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/></a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Generative_AI-00FFAA?style=for-the-badge&logo=openai&logoColor=black" />
+    <img src="https://img.shields.io/badge/Focus-Cloud_Architecture-00FFAA?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+    <img src="https://img.shields.io/badge/Focus-Fullstack_ML-00FFAA?style=for-the-badge&logo=pytorch&logoColor=black" />
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/yashraj-shrivastava-2064841ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/YashrajShri4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+    <a href="mailto:yashraj.shri4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
 <br>
 
 ---
 
-### ⚙️ My Engineering Pipeline
+### ⚡ The Intelligence Pipeline
+*I don't just write code; I build end-to-end systems. Here is how I move from raw entropy to scalable production:*
 
-As an AI engineer, I look at development as a continuous pipeline. Here is the stack I use to move from raw data to deployed intelligence:
+#### `STEP 01` $\rightarrow$ **Foundation & Data**
+`The raw materials: languages and storage.`
+<br>
+<img src="https://skillicons.dev/icons?i=py,java,c,js,mysql,mongodb" />
+<br>
+**Core:** Python, Java, SQL, C, JavaScript $\cdot$ MongoDB, MySQL
 
-#### 1. Languages, Web & Databases
-<div align="left">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=py" width="45"><br><sup>Python</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="45"><br><sup>Java</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"><br><sup>C</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"><br><sup>JavaScript</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"><br><sup>SQL</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"><br><sup>MongoDB</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"><br><sup>React.js</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"><br><sup>Node.js</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"><br><sup>Express.js</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"><br><sup>FastAPI</sup></td>
-    </tr>
-  </table>
-</div>
+#### `STEP 02` $\rightarrow$ **Modeling & Brains**
+`The alchemy: transforming data into patterns.`
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv" />
+<br>
+**Specialties:** Agentic AI $\cdot$ Generative AI $\cdot$ NLP $\cdot$ Computer Vision $\cdot$ Deep Learning
+**Toolkit:** PyTorch, Transformers, Diffusers, Scikit-Learn, OpenCV, Pandas, NumPy
 
-> **Programming:** Java, Python, SQL, C, JavaScript  
-> **Web Technologies:** Express.js, React.js, Node.js, FastAPI  
-> **Databases:** MongoDB, MySQL  
-
-#### 2. Compute, AI & Modeling
-<div align="left">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"><br><sup>PyTorch</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45"><br><sup>Scikit-learn</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="45"><br><sup>OpenCV</sup></td>
-    </tr>
-  </table>
-</div>
-
-> **AI / ML:** Agentic AI, Deep Learning, Generative AI, NLP, Computer Vision, Regression, Classification, Clustering  
-> **Data Science & Analysis:** Exploratory Data Analysis (EDA), Feature Engineering, Data Normalization, Excel, Tableau  
-> **Libraries:** PyTorch, Diffusers, Scikit-learn, OpenCV, Matplotlib, Seaborn, NumPy, Pandas, NLTK, Transformers, spaCy  
-
-#### 3. Containerization, Cloud & Tools
-<div align="left">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"><br><sup>AWS</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"><br><sup>Docker</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"><br><sup>Git</sup></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"><br><sup>GitHub</sup></td>
-    </tr>
-  </table>
-</div>
-
-> **Infrastructure:** AWS (EC2, Load Balancing, Auto Scaling), Docker, Git, GitHub  
+#### `STEP 03` $\rightarrow$ **Interface & Delivery**
+`The bridge: making AI accessible and scalable.`
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,aws,docker" />
+<br>
+**Delivery:** FastAPI, React, Node.js $\cdot$ AWS (EC2, ASG, LB) $\cdot$ Docker $\cdot$ Git/GitHub
 
 ---
 
-### 🔬 Research & Featured Systems
+### 🔬 Research & Systems Engineering
+*Selected works where I pushed the boundaries of implementation.*
 
-| Project | Description | Architecture Highlights |
-| :--- | :--- | :--- |
-| **[Identif.ai](#)** | 3D Forensic AI pipeline generating photorealistic suspect composites strictly from audio narrations. | PyTorch, Diffusers, spaCy, FastAPI, Docker |
-| **[JOY](#)** | Virtual AI-powered Emotional Therapist utilizing affective computing and contextual memory. | NLP, Transformers, NLTK, Sentiment Analysis |
-| **[FraudGuard](#)** | Financial fraud detection system mitigating false positives in imbalanced datasets. | Logistic Regression, SMOTE, Scikit-Learn |
+> **🚀 [Identif.ai](#)**  
+> **The Goal:** Generating photorealistic suspect composites from audio narrations.  
+> **The Stack:** `PyTorch` $\rightarrow$ `Diffusers` $\rightarrow$ `spaCy` $\rightarrow$ `FastAPI` $\rightarrow$ `Docker`  
+> **Impact:** Bridged the gap between unstructured audio and high-fidelity visual forensic tools.
 
-*(Click on my pinned repositories above to dive into the source code and documentation).*
+> **🧠 [JOY](#)**  
+> **The Goal:** A Virtual Emotional Therapist using affective computing.  
+> **The Stack:** `Transformers` $\cdot$ `NLTK` $\cdot$ `Sentiment Analysis` $\cdot$ `Contextual Memory`  
+> **Impact:** Implemented empathetic response loops for mental health support.
+
+> **🛡️ [FraudGuard](#)**  
+> **The Goal:** High-precision financial fraud detection in imbalanced datasets.  
+> **The Stack:** `SMOTE` $\cdot$ `Logistic Regression` $\cdot$ `Scikit-Learn`  
+> **Impact:** Drastically reduced false positives in skewed financial data.
 
 ---
 
-### 📈 Commits & Activity Dynamics
+### 📊 Activity Metrics
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashrajSh&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashrajSh&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" alt="Yashraj's Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashrajSh&show_icons=true&theme=tokyonight&fg_color=00FFAA&border_color=00FFAA" alt="Yashraj's Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Built with ⚡ and ☕ by <b>Yashraj Shrivastava</b></sub>
 </div>
