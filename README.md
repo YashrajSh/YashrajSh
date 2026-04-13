@@ -65,7 +65,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" title="C"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="sql" title="SQL"/>
+      <img width="30px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="sql" title="SQL"/>
     </kbd>
     <kbd>
       <kbd>Back-end & Web</kbd>
@@ -81,7 +81,7 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="MongoDB"/>
     </kbd>
     <br>
@@ -205,4 +205,5 @@ If you have any questions about AI, machine learning, generative models, data pi
   <a href="https://leetcode.com/u/YashrajShri4/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=" alt="LeetCode" /></a>
   <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GeeksforGeeks&color=298D46&logo=GeeksforGeeks&logoColor=FFFFFF&label=" alt="GeeksforGeeks" /></a>
 </div>
+
 
