@@ -1,118 +1,162 @@
-<div align="center">
-  <!-- Header Section -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Yashraj+Shrivastava;AI+%2F+ML+Architect;Cloud+Deployment+Expert" alt="Yashraj Shrivastava" />
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Generative_AI-00FFAA?style=for-the-badge&logo=openai&logoColor=black" />
-    <img src="https://img.shields.io/badge/Infrastructure-AWS_Cloud-00FFAA?style=for-the-badge&logo=amazon-aws&logoColor=black" />
-    <img src="https://img.shields.io/badge/Framework-PyTorch-00FFAA?style=for-the-badge&logo=pytorch&logoColor=black" />
-  </p>
+</details>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/yashraj-shrivastava-2064841ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/YashrajShri4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-    <a href="mailto:yashraj.shri4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
+<details>
+<summary><b>Technical Ecosystem</b></summary>
+
+
+<div align="center">
+<p style="display: inline-block;" align="center">
+<kbd>
+<kbd>Programming Languages & DBs</kbd>
+
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="SQL"/>
+<img width="30px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+</kbd>
+
+
+
+<kbd>
+<kbd>Core Data & Compute</kbd>
+
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn"/>
+<img width="30px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+<img width="30px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV"/>
+</kbd>
+
+
+
+<kbd>
+<kbd>NLP & Generative AI</kbd>
+
+
+<img height="30px" src="https://www.google.com/search?q=https://img.shields.io/badge/Transformers-FFD21E%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" title="Transformers"/>
+<img height="30px" src="https://www.google.com/search?q=https://img.shields.io/badge/Diffusers-FFD21E%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" title="Diffusers"/>
+<img height="30px" src="https://www.google.com/search?q=https://img.shields.io/badge/spaCy-09A3D5%3Fstyle%3Dfor-the-badge%26logo%3Dspacy%26logoColor%3Dwhite" title="spaCy"/>
+<img height="30px" src="https://www.google.com/search?q=https://img.shields.io/badge/NLTK-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" title="NLTK"/>
+</kbd>
+
+
+
+<kbd>
+<kbd>Backend & Cloud Ops</kbd>
+
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker"/>
+<img width="30px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" title="AWS"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git"/>
+</kbd>
+</p>
 </div>
 
-<br>
+</details>
 
-<!-- About Section using a Table for a "Card" effect -->
-<table width="100%">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Yashraj&backgroundColor=00FFAA" width="150px" alt="Avatar" />
-    </td>
-    <td width="70%" align="left">
-      <h3>⚡ System Identity</h3>
-      <p><b>Status:</b> <code>Active / Building</code></p>
-      <p><b>Objective:</b> Bridging the gap between raw data entropy and scalable, deployed intelligence. Specialized in designing generative pipelines that don't just work in notebooks, but thrive in production environments.</p>
-      <p><i>"Architecting the bridge between human intent and machine execution."</i></p>
-    </td>
-  </tr>
+<details>
+<summary><b>Operational Metrics & DSA</b></summary>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YashrajSh&show_icons=true&theme=tokyonight&fg_color=00FFAA&border_color=00FFAA" alt="GitHub Stats">
+</p>
+<p align="center">
+<a href="https://leetcode.com/u/YashrajShri4/">
+<img src="https://www.google.com/search?q=https://leetcard.jacoblin.cool/YashrajShri4%3Ftheme%3Dtokyonight%26font%3DFira%2520Code%26ext%3Dactivity" alt="LeetCode Stats">
+</a>
+</p>
+
+</details>
+
+<details>
+<summary><b>System Case Studies</b></summary>
+
+
+🚀 Identif.ai: 3D Forensic AI pipeline generating photorealistic suspect composites from audio narrations.
+
+
+🧠 JOY: Virtual AI-powered Emotional Therapist utilizing affective computing and contextual memory.
+
+
+🛡️ FraudGuard: Financial fraud detection system mitigating false positives using SMOTE.
+
+
+☁️ Cloud Architect: Containerizing ML backends with Docker and designing auto-scaling deployments.
+
+</details>
+
+<details>
+<summary><b>Architecture Quote</b></summary>
+
+
+<blockquote>
+“The goal of the first draft is not to get it right, but to get it written. The goal of the second draft is to make it scalable.”
+
+
+<strong>— Engineering Proverb</strong>
+</blockquote>
+
+</details>
+
+<details>
+<summary><b>Quick Dopamine Hit</b></summary>
+
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://readme-jokes.vercel.app/api%3Ftheme%3Dtokyonight" alt="Jokes Card" />
+</div>
+
+</details>
+
+<details>
+<summary><b>Collaboration Portal</b></summary>
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+Let's Build the Future!
+
+
+If you have questions about Generative AI, Cloud Deployment or Data Engineering, feel free to <a href="mailto:yashraj.shri4@gmail.com">contact me by email</a>.
+</td>
+<td width="50%" valign="top">
+Feedback Loop
+
+
+<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-00FFAA.svg">
+
+
+<blockquote>
+“The best way to predict the future is to invent it.”
+
+
+<strong>– Alan Kay</strong>
+</blockquote>
+</td>
+</tr>
 </table>
 
----
+</details>
 
-### 🛠 Technical Ecosystem
-*Modular capability breakdown categorized by the engineering pipeline.*
+</details>
 
-<div align="left">
-  <!-- ROW 1: CORE -->
-  <table>
-    <tr>
-      <td align="center" width="200"><b>01 // CORE</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=py,java,c,js,mysql,mongodb" />
-        <br><sub>Python · Java · SQL · C · JavaScript · MongoDB · MySQL</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200"><b>02 // INTELLIGENCE</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv" />
-        <br><sub>Generative AI · Agentic AI · NLP · Computer Vision · Deep Learning · Transformers · Diffusers</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200"><b>03 // DEPLOYMENT</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=aws,docker,git,github,react,nodejs,express,fastapi" />
-        <br><sub>AWS (EC2, ASG, LB) · Docker · Git · FastAPI · React · Node.js · Express.js</sub>
-      </td>
-    </tr>
-  </table>
 </div>
-
----
-
-### 🔬 System Case Studies
-*Proof of implementation through high-impact architectural solves.*
-
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <b>🚀 Identif.ai</b><br>
-        <i>Audio-to-Visual Forensic Pipeline</i><br>
-        <code>Audio $\rightarrow$ NLP $\rightarrow$ Diffusion $\rightarrow$ Image</code><br>
-        <small>Automated high-fidelity suspect imagery from raw audio descriptions.</small>
-      </td>
-      <td>
-        <b>🧠 JOY</b><br>
-        <i>Affective Emotional Therapist</i><br>
-        <code>Memory $\rightarrow$ Sentiment $\rightarrow$ Response</code><br>
-        <small>Implemented a state-aware AI with contextual memory for mental health support.</small>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🛡️ FraudGuard</b><br>
-        <i>Precision Fraud Detection</i><br>
-        <code>Imbalanced Data $\rightarrow$ SMOTE $\rightarrow$ Logistic Reg</code><br>
-        <small>Mitigated false positives in highly skewed financial datasets.</small>
-      </td>
-      <td>
-        <b>☁️ Cloud Architect</b><br>
-        <i>Scalable Infrastructure</i><br>
-        <code>CI/CD $\rightarrow$ Docker $\rightarrow$ AWS EC2</code><br>
-        <small>Designing auto-scaling backends to handle fluctuating AI model traffic.</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 Operational Telemetry
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashrajSh&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" width="100%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YashrajSh&show_icons=true&theme=tokyonight&fg_color=00FFAA&border_color=00FFAA" alt="Yashraj's Stats" />
-</div>
-
-<br>
 
 <div align="center">
-  <sub>Designed by <b>Yashraj Shrivastava</b> $\cdot$ Built with $\text{Code}$ and $\text{Coffee}$</sub>
+<a href="https://www.linkedin.com/in/yashraj-shrivastava-2064841ab/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fstyle%3Dfor-the-badge%26message%3DLinkedIn%26color%3D0077B5%26logo%3DLinkedIn%26logoColor%3DFFFFFF" alt="LinkedIn" /></a>
+<a href="YOUR_GFG_PROFILE_LINK" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fstyle%3Dfor-the-badge%26message%3DGeeksforGeeks%26color%3D298D46%26logo%3Dgeeksforgeeks%26logoColor%3DFFFFFF" alt="GeeksforGeeks"/></a>
+<a href="https://leetcode.com/u/YashrajShri4/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fstyle%3Dfor-the-badge%26message%3DLeetCode%26color%3DFFA116%26logo%3Dleetcode%26logoColor%3Dblack" alt="LeetCode" /></a>
+<a href="mailto:yashraj.shri4@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF" alt="Email" /></a>
+</div>
+
+<div align="center">
+<sub>Template base: 10Kartik ⋅ Architected for <b>Yashraj Shrivastava</b></sub>
 </div>
