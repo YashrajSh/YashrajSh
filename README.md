@@ -1,88 +1,83 @@
-<div align="center">
-  <!-- BOLD STATIC BRAND NAME -->
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Yashraj+Shrivastava" alt="Yashraj Shrivastava" /></h1>
+# ⚡ System.init(Yashraj_Shrivastava)
 
-  <!-- SUBTLE, FAST-CYCLING ROLES -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Cloud+Deployment+Architect;Data+Science+%26+Analytics" alt="Roles" />
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <pre><code>
+class Architect:
+    def __init__(self):
+        self.name = "Yashraj Shrivastava"
+        self.role = "AI/ML Developer & Cloud Architect"
+        self.focus = ["Generative AI", "Scalable Infrastructure", "Data Analytics"]
+        self.status = "Building intelligent systems that scale."
 
-  <p align="center">
-    <br>
-    <img src="https://img.shields.io/badge/Focus-Generative_AI-00FFAA?style=for-the-badge&logo=openai&logoColor=black" />
-    <img src="https://img.shields.io/badge/Focus-Cloud_Architecture-00FFAA?style=for-the-badge&logo=amazon-aws&logoColor=black" />
-    <img src="https://img.shields.io/badge/Focus-Fullstack_ML-00FFAA?style=for-the-badge&logo=pytorch&logoColor=black" />
-  </p>
+    def contact(self):
+        return {
+            "LinkedIn": "https://www.linkedin.com/in/yashraj-shrivastava-2064841ab/",
+            "LeetCode": "https://leetcode.com/u/YashrajShri4/",
+            "Email": "mailto:yashraj.shri4@gmail.com"
+        }
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/yashraj-shrivastava-2064841ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/YashrajShri4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-    <a href="mailto:yashraj.shri4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
+# Initializing profile...
+me = Architect()
+print(me.status)
+        </code></pre>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br>
 
 ---
 
-### ⚡ The Intelligence Pipeline
-*I view development as a continuous flow from raw data to deployed intelligence.*
+### 🛠 Engineering Stack
+*A modular breakdown of my technical capabilities.*
 
-#### `STEP 01` $\rightarrow$ **Foundation & Data**
-`The raw materials: languages and storage.`
-<br>
-<img src="https://skillicons.dev/icons?i=py,java,c,js,mysql,mongodb" />
-<br>
-**Core:** Python, Java, SQL, C, JavaScript $\cdot$ MongoDB, MySQL
+**`01 // COMPUTE & CORE`**  
+$\text{Languages} \rightarrow$ `Python` $\cdot$ `Java` $\cdot$ `SQL` $\cdot$ `C` $\cdot$ `JavaScript`  
+$\text{Databases} \rightarrow$ `MongoDB` $\cdot$ `MySQL`
 
-#### `STEP 02` $\rightarrow$ **Modeling & Brains**
-`The alchemy: transforming data into patterns.`
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv" />
-<br>
-**Specialties:** Agentic AI $\cdot$ Generative AI $\cdot$ NLP $\cdot$ Computer Vision $\cdot$ Deep Learning
-**Toolkit:** PyTorch, Transformers, Diffusers, Scikit-Learn, OpenCV, Pandas, NumPy
+**`02 // INTELLIGENCE LAYER`**  
+$\text{AI/ML} \rightarrow$ `Agentic AI` $\cdot$ `Generative AI` $\cdot$ `NLP` $\cdot$ `Computer Vision` $\cdot$ `Deep Learning`  
+$\text{Libraries} \rightarrow$ `PyTorch` $\cdot$ `Transformers` $\cdot$ `Diffusers` $\cdot$ `Scikit-Learn` $\cdot$ `OpenCV` $\cdot$ `Pandas` $\cdot$ `NumPy`
 
-#### `STEP 03` $\rightarrow$ **Interface & Delivery**
-`The bridge: making AI accessible and scalable.`
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,aws,docker" />
-<br>
-**Delivery:** FastAPI, React, Node.js $\cdot$ AWS (EC2, ASG, LB) $\cdot$ Docker $\cdot$ Git/GitHub
+**`03 // DEPLOYMENT & OPS`**  
+$\text{Cloud} \rightarrow$ `AWS (EC2, ASG, LB)` $\cdot$ `Docker` $\cdot$ `Git` $\cdot$ `GitHub`  
+$\text{Interface} \rightarrow$ `FastAPI` $\cdot$ `React.js` $\cdot$ `Node.js` $\cdot$ `Express.js`
 
 ---
 
-### 🔬 Research & Systems Engineering
-*Selected works where I pushed the boundaries of implementation.*
+### 🔬 System Case Studies
+*Moving beyond code to solve complex problems.*
 
-> **🚀 [Identif.ai](#)**  
-> **The Goal:** Generating photorealistic suspect composites from audio narrations.  
-> **The Stack:** `PyTorch` $\rightarrow$ `Diffusers` $\rightarrow$ `spaCy` $\rightarrow$ `FastAPI` $\rightarrow$ `Docker`  
-> **Impact:** Bridged the gap between unstructured audio and high-fidelity visual forensic tools.
+**$\text{Project: Identif.ai}$**  
+> **Objective:** Audio-to-Visual Forensic Pipeline.  
+> **Logic:** `Audio` $\rightarrow$ `spaCy (NLP)` $\rightarrow$ `Diffusers (Stable Diffusion)` $\rightarrow$ `Photorealistic Composite`.  
+> **Outcome:** Automated the creation of suspect imagery from descriptive narrations.
 
-> **🧠 [JOY](#)**  
-> **The Goal:** A Virtual Emotional Therapist using affective computing.  
-> **The Stack:** `Transformers` $\cdot$ `NLTK` $\cdot$ `Sentiment Analysis` $\cdot$ `Contextual Memory`  
-> **Impact:** Implemented empathetic response loops for mental health support.
+**$\text{Project: JOY}$**  
+> **Objective:** Affective Computing for Emotional Therapy.  
+> **Logic:** `Contextual Memory` $\rightarrow$ `Sentiment Analysis` $\rightarrow$ `Empathetic Response Loop`.  
+> **Outcome:** A virtual therapist capable of maintaining emotional continuity.
 
-> **🛡️ [FraudGuard](#)**  
-> **The Goal:** High-precision financial fraud detection in imbalanced datasets.  
-> **The Stack:** `SMOTE` $\cdot$ `Logistic Regression` $\cdot$ `Scikit-Learn`  
-> **Impact:** Drastically reduced false positives in skewed financial data.
+**$\text{Project: FraudGuard}$**  
+> **Objective:** Mitigation of False Positives in Financial Data.  
+> **Logic:** `Imbalanced Dataset` $\rightarrow$ `SMOTE` $\rightarrow$ `Logistic Regression`.  
+> **Outcome:** Optimized fraud detection precision in highly skewed environments.
 
 ---
 
-### 📊 Activity Metrics
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashrajSh&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" width="100%" />
+### 📉 Operational Metrics
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashrajSh&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" width="80%" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashrajSh&show_icons=true&theme=tokyonight&fg_color=00FFAA&border_color=00FFAA" alt="Yashraj's Stats" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashrajSh&show_icons=true&theme=tokyonight&fg_color=00FFAA&border_color=00FFAA" height="150px" />
 </div>
 
 <br>
 
-<div align="center">
-  <sub>Built with ⚡ and ☕ by <b>Yashraj Shrivastava</b></sub>
-</div>
+`// End of Profile. System exiting...`
