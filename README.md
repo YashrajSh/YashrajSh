@@ -1,9 +1,12 @@
 <div align="center">
-  <a href="https://github.com/YashrajSh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Yashraj+Shrivastava;Architecting+Intelligent+Systems;Generative+AI+%2B+Cloud+Ops;Turning+Data+into+Deployed+Intelligence" alt="Typing SVG" />
-  </a>
+  <!-- BOLD STATIC BRAND NAME -->
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Yashraj+Shrivastava" alt="Yashraj Shrivastava" /></h1>
+
+  <!-- SUBTLE, FAST-CYCLING ROLES -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Cloud+Deployment+Architect;Data+Science+%26+Analytics" alt="Roles" />
 
   <p align="center">
+    <br>
     <img src="https://img.shields.io/badge/Focus-Generative_AI-00FFAA?style=for-the-badge&logo=openai&logoColor=black" />
     <img src="https://img.shields.io/badge/Focus-Cloud_Architecture-00FFAA?style=for-the-badge&logo=amazon-aws&logoColor=black" />
     <img src="https://img.shields.io/badge/Focus-Fullstack_ML-00FFAA?style=for-the-badge&logo=pytorch&logoColor=black" />
@@ -21,7 +24,7 @@
 ---
 
 ### ⚡ The Intelligence Pipeline
-*I don't just write code; I build end-to-end systems. Here is how I move from raw entropy to scalable production:*
+*I view development as a continuous flow from raw data to deployed intelligence.*
 
 #### `STEP 01` $\rightarrow$ **Foundation & Data**
 `The raw materials: languages and storage.`
@@ -71,6 +74,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashrajSh&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&hide_border=true" width="100%" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashrajSh&show_icons=true&theme=tokyonight&fg_color=00FFAA&border_color=00FFAA" alt="Yashraj's Stats" />
